@@ -18,7 +18,7 @@ public class SchoolLibraryApp {
     private Library library;
     private Librarian librarian;
     private static Scanner scanner;
-    private static final String  FILE_PATH = "src/resources/app_config.txt";
+    private static final String  FILE_PATH = "src/main/resources/app_config.txt";
     private static final String MAXIMUM_QUEUE_SIZE = "maximum_queue_size";
     private static final String IMPLEMENTATION = "implementation";
     private static final String LIBRARIAN_NAME = "librarian_name";
